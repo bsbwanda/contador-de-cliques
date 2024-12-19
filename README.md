@@ -2,8 +2,9 @@
 projetos-de-certificacao-trilha-3/contador-de-cliques-basico-3811
 
 Contador de Cliques Básico
-📜 Resumo do Projeto
-Este projeto é uma aplicação simples construída com React, que implementa um contador de cliques. A ideia central é desenvolver uma funcionalidade onde cada vez que o botão for clicado, o contador será incrementado em um. O objetivo é proporcionar uma experiência prática com os conceitos fundamentais do React, como componentes, estado e eventos.
+
+
+ 
 
 📜 Resumo do Projeto
 Este projeto é uma aplicação simples construída com React, que implementa um contador de cliques. A ideia central é desenvolver uma funcionalidade onde cada vez que o botão for clicado, o contador será incrementado em um. O objetivo é proporcionar uma experiência prática com os conceitos fundamentais do React, como componentes, estado e eventos.
